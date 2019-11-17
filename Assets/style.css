@@ -1,0 +1,40 @@
+.menu {
+    display: inline-block;
+}
+
+.menu {
+    display: inline;
+    position: absolute;
+}
+
+.jumbotron img {
+    size: 200px;
+}
+
+.login {
+    width: fit-content;
+    background-color: #AEAEAE;
+    margin: auto;
+    margin-top: 20%;
+}
+
+.login-form {
+    background: #AEAEAE;
+    padding: 15px;
+}
+
+.login-group {
+    background: #AEAEAE;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.jumbotron {
+    background-image: url(../Assets/Banner/image90.png);
+}
+
+.img-detail {
+    margin-left: auto;
+    margin-right: auto;
+}
